@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+ruby '2.5.1'
+gem 'rspec'
+gem 'webdrivers', '~> 4.0'
+gem 'selenium-webdriver', '~> 3.142', '>= 3.142.3'
+gem 'watir', '~> 6.16', '>= 6.16.5'
