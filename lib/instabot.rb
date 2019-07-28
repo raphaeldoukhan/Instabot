@@ -1,4 +1,3 @@
-require 'rspec'
 require 'credentials'
 require 'watir-webdriver'
 require 'selenium-webdriver'
